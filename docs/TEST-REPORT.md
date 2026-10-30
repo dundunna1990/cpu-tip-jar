@@ -9,7 +9,7 @@ This project is a rebranded copy of an existing small, voluntary Monero donation
 - These results do not prove that the renamed binaries and their graphical user interfaces work on every desktop.
 
 ## Testing of the newly branded repository
-On 2026-10-30, 14 unit tests passed on Linux (one Windows-only test skipped), and the renamed application's harmless self-test passed. The new application window was opened on Linux and a screenshot captured without mining. Fresh CI builds, platform downloads and checksums still need verification.
+On 2026-10-30, 14 unit tests passed on Linux (one Windows-only test skipped), and the renamed application's harmless self-test passed. The new application window was opened on Linux and a screenshot captured without mining. GitHub Actions completed Linux and Windows tests, builds and executable self-tests successfully for the new repository (2026-10-30). Version v0.1.0-preview.1 was published with Linux and Windows archives and SHA256SUMS. Both publicly downloaded archives matched the published checksums. The downloaded Linux executable passed its non-mining self-test; the Windows archive was inspected but Windows UI/Defender remain untested.
 
 ## Unfinished acceptance
 - Test the downloadable app through its complete GUI workflow.

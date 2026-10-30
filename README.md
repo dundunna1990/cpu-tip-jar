@@ -16,7 +16,7 @@ CPU Tip Jar is a small, open-source desktop app for **64-bit Linux and Windows**
 
 > **Your choice, every time.** CPU Tip Jar does not mine when opened, run hidden in the background, install a service, start with your computer, or disable antivirus. You must explicitly download the mining engine, agree to donate, and confirm Start.
 
-**Latest preview: [v0.1.0-preview.1](https://github.com/dundunna1990/cpu-tip-jar/releases/tag/v0.1.0-preview.1).** The renamed Linux source tests and self-test passed, and the Linux app window was opened and checked. A prior isolated mining session on the underlying code received an accepted pool share and stopped cleanly. Windows automated builds and tests passed on the underlying code, but fresh release downloads and real Windows graphical/antivirus testing still need checking. This remains a **preview**, not a final production release.
+**Latest preview: [v0.1.0-preview.1](https://github.com/dundunna1990/cpu-tip-jar/releases/tag/v0.1.0-preview.1).** The renamed Linux and Windows apps passed automated build and self-tests. The public Linux and Windows download checksums were verified, and the Linux app window was inspected. A separate Linux mining test of the underlying code received an accepted share and stopped cleanly. Hands-on Windows GUI/antivirus testing and a full mining session through the renamed app's GUI are still outstanding. This remains a **preview**, not a final production release.
 
 
 

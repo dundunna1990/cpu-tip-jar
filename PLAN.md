@@ -15,7 +15,7 @@ Small, opt-in, desktop-only donation miner for 64-bit Linux and Windows.
 - [x] Linux unit tests and non-mining self-test have passed on the original codebase.
 - [x] Isolated Linux mining session accepted a share and stopped cleanly on 2026-10-30 (original app code).
 - [x] Renamed source Linux tests and self-test passed on 2026-10-30.
-- [ ] Fresh downloadable builds and checksums for the renamed project.
+- [x] Fresh downloadable Linux and Windows builds, checksum verification, and Linux release self-test (2026-10-30).
 - [ ] Real Windows desktop GUI, antivirus, Start/Stop and cleanup testing.
 - [ ] Real desktop fresh-install and removal check for this branded release.
 
